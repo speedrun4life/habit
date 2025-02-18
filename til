@@ -5,3 +5,5 @@
 xcd : execute and cd
 
 cl () { git clone "$*" && cd $(basename "$*" .git); }
+
+https://x.com/i/grok/share/S649a9J1TCE5Iv3KiK27mzIlA
