@@ -1,0 +1,7 @@
+
+
+18 2
+
+xcd : execute and cd
+
+cl () { git clone "$*" && cd $(basename "$*" .git); }
